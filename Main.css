@@ -1,0 +1,30 @@
+main {
+    padding: 25px;
+    margin: auto;
+    text-align: center;
+}
+main button {
+    /* width: 50px; */
+    /* height: 50px; */
+    margin: 10px;
+    border: none;
+    /* box-shadow: 0 0 3px #999; */
+    /* border-radius: 5px; */
+    cursor: pointer;
+}
+
+main button:first-child {
+    /* background-color: #6f9; */
+}
+
+main button:last-child {
+    /* background-color: #f69; */
+}
+
+main span{
+    font-weight: 900;
+}
+
+main * {
+    font-size: 2rem;
+}

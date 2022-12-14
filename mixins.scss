@@ -1,0 +1,9 @@
+@mixin danger-text {
+    color: red;
+      border: 1px solid darkred;
+  }
+
+  @mixin success-text {
+    color: green;
+     border: 1px solid olivedrab;
+  }
